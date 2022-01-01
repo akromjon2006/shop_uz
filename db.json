@@ -1,0 +1,70 @@
+{
+   "list": [
+    {
+      "id": 0,
+      "product": {
+        "name": "Test product",
+        "type": "drink"
+      },
+      "price": {
+        "real_price": 150000,
+        "discount_price": 130000
+      },
+      "measurement": {
+        "name": "kg",
+        "id": 1
+      },
+      "currency": {
+        "name": "sum",
+        "id": 1
+      },
+      "balance": 100,
+      "description": "Чайный напиток в пакетиках Greenfield Wildberry Rooibos",
+      "raiting": 90
+    },
+    {
+      "id": 1,
+      "product": {
+        "name": "Test2 product",
+        "type": "bakery"
+      },
+      "price": {
+        "real_price": 10,
+        "discount_price": 8
+      },
+      "measurement": {
+        "name": "шт",
+        "id": 2
+      },
+      "currency": {
+        "name": "usd",
+        "id": 2
+      },
+      "balance": 1000,
+      "description": "Чайный напиток в пакетиках Greenfield Wildberry Rooibos akrom new",
+      "raiting": 10
+    },
+    {
+      "id": 2,
+      "product": {
+        "name": "Test3 product",
+        "type": "bakery"
+      },
+      "price": {
+        "real_price": 30000,
+        "discount_price": 24000
+      },
+      "measurement": {
+        "name": "kg",
+        "id": 1
+      },
+      "currency": {
+        "name": "sum",
+        "id": 1
+      },
+      "balance": 24,
+      "description": "Чайный напиток в пакетиках Greenfield aziz new",
+      "raiting": 47
+    }
+  ]
+}
